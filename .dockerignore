@@ -1,6 +1,0 @@
-node_modules
-.turbo
-.env
-.github
-.devcontainer
-packages/**/node_modules
