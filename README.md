@@ -1,4 +1,4 @@
-# Poly-Maker
+# Polymarket market maker
 
 Polymarket market-making infrastructure focused on one thing: helping a serious trader run disciplined, testable, and risk-aware execution.
 
